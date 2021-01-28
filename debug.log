@@ -1,0 +1,6 @@
+[0127/232647.388:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0127/233820.314:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\GYANSY~1\AppData\Local\Temp\scoped_dir16072_479542268\Crashpad\attachments\7a2bbaee-4bfc-4494-a315-c830e7f839ab: The system cannot find the path specified. (0x3)
+[0128/000808.216:ERROR:process_info.cc(359)] UncheckedAllocate
+[0128/000808.262:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\GYANSY~1\AppData\Local\Temp\scoped_dir6796_24497438\Crashpad\attachments\296237dd-8d7c-4eef-bde6-0d0315cd060e: The system cannot find the path specified. (0x3)
+[0128/002002.105:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0128/004503.014:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
