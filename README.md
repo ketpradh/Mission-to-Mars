@@ -3,4 +3,5 @@ This project helps the user to build a custom Mars website using web scraping me
 ## For Deliverable 3- 
 - The text is bold using <strong> 
 - The Scrape button color is changed to light blue as it's a Info button.
+- The page is also  mobile-responsive using col-md and responsive button and **img-responsive** class.
   
